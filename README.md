@@ -1,4 +1,9 @@
 # R-ALAB 308A.4.1: Working with External Data
+
+## CodeSandbox Solutions
+### Part 2 & 3: https://codesandbox.io/p/sandbox/r-alab-308a-4-1-working-with-external-data-fetch-wgnfnd
+### Part 4 & 5: https://codesandbox.io/p/devbox/r-alab-308a-4-1-working-with-external-data-fetch-forked-s8p9y6?workspaceId=ws_SHSw6ucYkmtjkZArZbN2cR
+
 ## Introduction
 
 This **graded** assignment challenges you to create an interactive application using data from an external Application Programming Interface (API). In order to accomplish this task, you will employ the tools and techniques you have learned thus far, including `fetch`, `Axios`, and `async/await` syntax.
